@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rithika Chandra Vemula</h1>
 
 <h3 align="center">
-  🚀 DevOps Engineer | ☁️ Cloud & Automation Enthusiast
+  🚀 DevOps Engineer | ☁️ Cloud & Automation Enthusiast | ⚙️ SRE
 </h3>
 
 <p align="center">
@@ -10,13 +10,14 @@
   containerization, monitoring, and secure deployment practices.
 </p>
 
+```html
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VEMULAR0&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/VEMULAR0?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
 </p>
 
 ---
-
+```
 ## 👩‍💻 About Me
 
 - ☁️ Interested in cloud computing and cloud infrastructure.
