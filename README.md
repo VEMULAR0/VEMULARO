@@ -3,7 +3,8 @@
 <p align="center">
   <img
     src="https://i.pinimg.com/1200x/78/03/51/7803519a77b6c3714e76cb2cf252645c.jpg"
-    width="100%"
+    width="1200"
+    height="400"
     alt="DevOps Profile Banner"
   />
 </p>
