@@ -1,8 +1,9 @@
-<!-- ===================== PROFILE BANNER ===================== -->
+
+<!-- ===================== PROFILE IMAGE ===================== -->
 <p align="center">
   <img
     src="https://i.pinimg.com/1200x/78/03/51/7803519a77b6c3714e76cb2cf252645c.jpg"
-    alt="Profile Banner"
+    alt="Rithika's Profile Banner"
     width="100%"
   />
 </p>
@@ -14,8 +15,8 @@
 </h3>
 
 <p align="center">
-  Passionate about cloud infrastructure, automation, CI/CD, containerization,
-  monitoring, and secure deployment practices.
+  Passionate about cloud infrastructure, automation, CI/CD,
+  containerization, monitoring, and secure deployment practices.
 </p>
 
 <p align="center">
@@ -27,14 +28,14 @@
 
 ## 👩‍💻 About Me
 
-- ☁️ Interested in **Cloud Computing and Cloud Infrastructure**.
-- ⚙️ Exploring **DevOps practices, CI/CD pipelines, and automation**.
-- 🐳 Working with container technologies such as **Docker and Kubernetes**.
-- 🏗️ Interested in Infrastructure as Code using **Terraform and Ansible**.
-- 🔄 Exploring **GitOps and automated deployment workflows**.
+- ☁️ Interested in cloud computing and cloud infrastructure.
+- ⚙️ Exploring DevOps practices, CI/CD pipelines, and automation.
+- 🐳 Working with container technologies such as Docker and Kubernetes.
+- 🏗️ Interested in Infrastructure as Code using Terraform and Ansible.
+- 🔄 Exploring GitOps and automated deployment workflows.
 - 📊 Interested in monitoring, observability, and system reliability.
 - 🔐 Focused on security practices and reliable infrastructure.
-- 📚 Always learning new tools and technologies to improve my technical skills.
+- 📚 Always learning new tools and technologies to improve my skills.
 
 ---
 
@@ -165,7 +166,7 @@
   <a href="https://github.com/VEMULAR0">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="mailto:rithuvwmula2001@gmail.com">
+  <a href="mailto:rithuvemula2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
