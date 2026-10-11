@@ -1,13 +1,11 @@
-
 <!-- ===================== PROFILE IMAGE ===================== -->
 <p align="center">
   <img
-    src="https://i.pinimg.com/1200x/78/03/51/7803519a77b6c3714e76cb2cf252645c.jpg"
-    alt="Rithika's Profile Banner"
+    src="./profile-banner.jpg"
+    alt="Rithika Chandra Vemula Profile Banner"
     width="100%"
   />
 </p>
-
 <h1 align="center">Hi 👋, I'm Rithika Chandra Vemula</h1>
 
 <h3 align="center">
