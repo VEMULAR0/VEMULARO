@@ -11,8 +11,9 @@
 
 <!-- ================= PROFILE COUNTERS ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VEMULAR0&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/VEMULAR0?style=for-the-badge&color=blue&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=VEMULAR0&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/VEMULAR0?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
 </p>
 
 ---
