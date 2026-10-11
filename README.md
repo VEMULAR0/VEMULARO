@@ -1,12 +1,4 @@
 <!-- ===================== PROFILE IMAGE ===================== -->
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/VEMULAR0/VEMULARO/main/Untitled%20design.jpg"
-    alt="Rithika Chandra Vemula Profile Banner"
-    width="100%"
-  />
-</p>
-
 <h1 align="center">Hi 👋, I'm Rithika Chandra Vemula</h1>
 
 <h3 align="center">
