@@ -10,14 +10,12 @@
   containerization, monitoring, and secure deployment practices.
 </p>
 
-```html
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VEMULAR0&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/VEMULAR0?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
 </p>
 
 ---
-```
 ## 👩‍💻 About Me
 
 - ☁️ Interested in cloud computing and cloud infrastructure.
