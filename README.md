@@ -1,44 +1,36 @@
-<!-- ===================== PROFILE BANNER ===================== -->
+
+<!-- =============== PROFILE BANNER =============== -->
 <p align="center">
   <img
     src="https://i.pinimg.com/1200x/78/03/51/7803519a77b6c3714e76cb2cf252645c.jpg"
     width="100%"
-    alt="Profile Banner"
+    alt="DevOps Profile Banner"
   />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rithika Chandra Vemula</h1>
 
-<h3 align="center">
-  DevOps Engineer | Cloud Computing | Automation | CI/CD
-</h3>
+<h3 align="center">DevOps Engineer | Cloud | Automation | CI/CD</h3>
 
 <p align="center">
-  Passionate about building reliable infrastructure, automating deployments,
-  and creating scalable cloud solutions.
+  Building reliable infrastructure, automating deployments, and exploring cloud-native technologies.
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=VEMULAR0&style=flat-square&color=0e75b6&label=PROFILE+VIEWS"
-    alt="Profile views"
-  />
-  <img
-    src="https://img.shields.io/github/followers/VEMULAR0?style=flat-square&color=0e75b6&label=Followers"
-    alt="GitHub followers"
-  />
+  <img src="https://komarev.com/ghpvc/?username=VEMULAR0&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/VEMULAR0?style=flat-square&color=0e75b6&label=Followers" alt="GitHub followers" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- ☁️ Interested in **Cloud Computing and DevOps Engineering**
-- 🔧 Working with cloud infrastructure, CI/CD pipelines, and automation
-- 🚀 Exploring containerization and Kubernetes orchestration
-- 📊 Interested in monitoring, observability, and system reliability
-- 🔐 Focused on infrastructure security and DevSecOps practices
-- 🌱 Continuously learning modern cloud-native technologies
+- ☁️ Interested in Cloud Computing and DevOps Engineering
+- 🚀 Exploring CI/CD pipelines, cloud infrastructure, and automation
+- 📦 Working with containers and Kubernetes orchestration
+- 📊 Interested in monitoring, observability, and reliability
+- 🔐 Learning infrastructure security and DevSecOps practices
+- 🌱 Always learning and improving my technical skills
 
 ---
 
@@ -47,7 +39,7 @@
 ### ☁️ Cloud Platforms
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
 ### 📦 Containers & Orchestration
@@ -57,7 +49,7 @@
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
 </p>
 
-### ⚙️ Infrastructure as Code & Configuration
+### ⚙️ Infrastructure as Code
 <p>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
@@ -87,7 +79,7 @@
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
 </p>
 
-### 🐧 Operating Systems & Tools
+### 🐧 Systems & Tools
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
@@ -103,12 +95,12 @@
 
 <p align="center">
   <img
-    height="165"
+    height="160"
     src="https://github-readme-stats.vercel.app/api?username=VEMULAR0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub statistics"
   />
   <img
-    height="165"
+    height="160"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEMULAR0&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most used languages"
   />
@@ -116,6 +108,7 @@
 
 <p align="center">
   <img
+    height="160"
     src="https://streak-stats.demolab.com?user=VEMULAR0&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak"
   />
@@ -123,13 +116,13 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=VEMULAR0&theme=tokyo-night&hide_border=true"
     width="100%"
-    alt="GitHub contribution activity graph"
+    alt="GitHub contribution activity"
   />
 </p>
 
@@ -152,9 +145,5 @@
 ---
 
 <p align="center">
-  <i>Automate everything you can, monitor everything that matters.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" alt="" />
+  <i>"Automate everything you can, monitor everything that matters."</i>
 </p>
